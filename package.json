@@ -1,0 +1,26 @@
+{
+  "name": "react-native-storybook-readme",
+  "version": "1.0.0",
+  "description": "read me plugin for react native storybook ",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kwar0715/react-native-readme-addon.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "storybook",
+    "readme",
+    "markdown"
+  ],
+  "author": "Kolitha.Warnakulasooriya",
+  "license": "ICS",
+  "bugs": {
+    "url": "https://github.com/kwar0715/react-native-readme-addon/issues"
+  },
+  "homepage": "https://github.com/kwar0715/react-native-readme-addon#readme"
+}
